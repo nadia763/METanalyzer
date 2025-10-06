@@ -86,7 +86,7 @@ pyinstaller --onefile --name METanalyzer --icon=METanalyzer.ico METanalyzer.py
 ### Releases
 A compiled and 7zip-packed version of METanalyzer for Windows is available as a release. You can download it from the **[Releases](https://github.com/ot2i7ba/METanalyzer/releases)** section on GitHub. This version includes all necessary dependencies and can be run without requiring Python to be installed on your system.
 
-> **Important**  
+> [!IMPORTANT]
 > The HTML reports are self-contained and do not require internet connectivity for viewing. All JavaScript libraries are included via CDN links for enhanced functionality, but the reports remain fully functional offline for core data viewing.
 
 ## Example
