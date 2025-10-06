@@ -1,10 +1,10 @@
 # METanalyzer
 **METanalyzer** is a Python script designed to analyze eMule `known.met` files for forensic investigations. This forensic tool employs memory-mapped file processing and streaming technology to efficiently handle large evidence files while maintaining constant memory usage, regardless of file size. The tool generates comprehensive reports in multiple formats, enabling investigators to examine P2P file sharing activities with forensic-grade accuracy and documentation.
 
-> **Note**  
+> [!NOTE]
 > This script is specifically tailored for eMule `known.met` files. Its compatibility or performance with metadata files from other P2P clients has not been tested.
 
-> **Warning**  
+> [!WARNING]
 > Please note that this script is currently under development, and I cannot provide a 100% guarantee that it operates in a forensically sound manner. It is tailored to meet specific needs at this stage. Use it with caution, especially in environments where forensic integrity is critical.
 
 ## Table of Contents
